@@ -16,6 +16,22 @@ O desafio inclui não apenas criar a API para gerenciar os dados da agência de 
 - **04:** Cadastro de pontos turísticos.
 - **05:** Funcionalidades CRUD para todas as três entidades mencionadas.
 
+## Tecnologias Utilizadas
+
+  - **Node.js**
+  - **Express.js**
+  - **Prisma**
+  - **MySQL**
+
+## Pré-requisitos
+
+Antes de começar, verifique se você tem instalado em sua máquina:
+
+- Node.js
+- npm (ou yarn)
+- MySQL (ou outro banco de dados compatível)
+
+
 ## Testando o Projeto
 
 Para testar o projeto localmente, siga os passos abaixo:
